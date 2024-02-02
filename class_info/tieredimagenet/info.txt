@@ -1,1 +1,1 @@
-Add tieredimagenet data here
+Add class info for tieredimagenet data here
