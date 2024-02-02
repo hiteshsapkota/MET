@@ -1,0 +1,1 @@
+Put class info for cifar100 here
