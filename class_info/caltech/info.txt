@@ -1,1 +1,1 @@
-Add caltech dataset here
+Put class info for caltech here
